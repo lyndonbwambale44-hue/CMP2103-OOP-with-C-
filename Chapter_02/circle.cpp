@@ -3,8 +3,8 @@
 //      perimeter = 2 * radius * pi
 
 // Where pi = 3.14.
-
-import std;
+#include <iostream>
+using  namespace std;
 
 int main()
 {

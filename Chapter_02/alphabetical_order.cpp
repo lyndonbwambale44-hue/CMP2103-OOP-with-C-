@@ -2,7 +2,7 @@
 // So, if the user enters the values Electrical Eng., Computer Eng., Biomedical Eng.,
 // the output should be Biomedical Eng., Computer Eng., Electrical Eng..
 #include <iostream>
-#include <string.h>
+#include <string>
 using namespace std;
 int main() {
     string val1, val2, val3;

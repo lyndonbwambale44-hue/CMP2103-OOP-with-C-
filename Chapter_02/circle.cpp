@@ -12,7 +12,7 @@ int main()
     //  Print statement
     std::cout << "Please enter the radius of a circle\n";
 
-    // Initialize radius
+
     int radius = 0;
 
     // read radius
